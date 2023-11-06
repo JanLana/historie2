@@ -38,6 +38,6 @@ public class MojeHistorie {
     }
 
     public String toString() {
-        return String.join("\n", data);
+        return "radka 1"; // String.join("\n", data);
     }
 }
